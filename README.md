@@ -1,4 +1,4 @@
-# UWBRTLPS
+# UWB-RTLPS
 Ultra Wide Band Real-Time Local Positioning System
 
 Video demonstration: https://youtu.be/-GNkobAxao0
